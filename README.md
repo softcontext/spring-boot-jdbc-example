@@ -2,5 +2,5 @@ demo project for beginner
 --------------------------
 spring-boot
 spring-jdbc
-restful
+restful @RestController
 angular 1.5
